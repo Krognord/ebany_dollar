@@ -1,7 +1,7 @@
 import requests
 import matplotlib.pyplot as plt
 
-api_key = 'fca_live_a7wJo65vWDCC6bTs7magJRxY7ciZt6vCq7tWtLhk'
+api_key = 'your_api'
 base_url = 'https://api.freecurrencyapi.com/v1/historical'
 base_currency = 'USD'
 target_currency = 'RUB'
